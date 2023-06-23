@@ -8,6 +8,7 @@ permalink: /publications/
 
 
 # Publications
+Coming soon! In the meantime, see our Google Scholar page: https://scholar.google.com/citations?user=x-YACVoAAAAJ
 
 ## Group highlights
 
