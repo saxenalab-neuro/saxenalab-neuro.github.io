@@ -1,16 +1,16 @@
 ---
-title: "Saxena Lab - Vacancies"
+title: "Saxena Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 # Open positions
 
-**We are currently open for postdoc applications.**
+**We are currently open to Postdoc and PhD applications.**
 
-We are  looking for new group members with passion, talent, and grit!
+We are looking for new group members with passion, talent, and grit!
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:shreya.saxena@yale.edu). State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. 
