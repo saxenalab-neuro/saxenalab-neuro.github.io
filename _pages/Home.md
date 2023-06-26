@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>100 College St</p>
     <p>Wu Tsai Institute</p>
+    <p>100 College St</p>
     <p>New Haven, CT 06510</p>
 
 news: true  # includes a list of news items
