@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: team
 permalink: /team/
 title: team
 description: Materials for courses you taught. Replace this text with your description.
