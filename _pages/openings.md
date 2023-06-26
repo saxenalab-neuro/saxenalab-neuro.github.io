@@ -1,5 +1,5 @@
 ---
-title: "Saxena Lab - Openings"
+title: "Openings"
 layout: page
 excerpt: "Openings"
 sitemap: false
