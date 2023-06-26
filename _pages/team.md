@@ -1,6 +1,6 @@
 ---
 title: "Team"
-layout: gridlay
+layout: page
 excerpt: "Team members"
 sitemap: false
 permalink: /team/
