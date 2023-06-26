@@ -1,10 +1,10 @@
 ---
-title: "Openings"
 layout: page
-excerpt: "Openings"
-sitemap: false
-nav_order: 7
 permalink: /openings/
+title: openings
+description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+nav: true
+nav_order: 3
 ---
 
 # Open positions
