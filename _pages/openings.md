@@ -3,7 +3,8 @@ title: "Openings"
 layout: page
 excerpt: "Openings"
 sitemap: false
-permalink: /openings
+nav_order:7
+permalink: /openings/
 ---
 
 # Open positions
