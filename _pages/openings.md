@@ -1,6 +1,6 @@
 ---
 title: "Saxena Lab - Openings"
-layout: textlay
+layout: page
 excerpt: "Openings"
 sitemap: false
 permalink: /openings
