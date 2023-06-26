@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: [Wu Tsai Institute at Yale University]([http://reddit.com](https://wti.yale.edu/) 
+subtitle: Wu Tsai Institute at Yale University
 
 profile:
   align: right
