@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Saxena Lab - Home
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='[#](https://wti.yale.edu/)'>Wu Tsai Institute at Yale University</a>.
 
 profile:
   align: right
