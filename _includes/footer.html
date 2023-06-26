@@ -1,33 +1,25 @@
-<div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-
-		  <p>&copy 2023 Saxena Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://wti.yale.edu/">Wu Tsai Institute</a> and <a href="https://seas.yale.edu/departments/biomedical-engineering">Biomedical Engineering Department</a> at <a href="https://www.yale.edu/">Yale University</a>.</p>
-
-
-		   <p>  </p><p>
-
-
-		</div>
-		<div class="col-sm-4">
-		  Active Funding:<br />
-      - <a href="https://braininitiative.nih.gov/">NIH Brain Initiative</a><br />
-		  - <a href="https://new.nsf.gov/funding/opportunities/integrative-strategies-understanding-neural">NSF NCS</a> <br />
-		</div>
-		<div class="col-sm-4">
-		  Physically located at:<br />
-		  Wu Tsai Institute<br />
-		  100 College Street, Office 1124<br />
-		  Yale University<br />
-		  New Haven, CT 06520<br />
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+    {% if site.footer_fixed %}
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+      </div>
+    </footer>
+    {%- else -%}
+    <footer class="sticky-bottom mt-5">
+      <div class="container">
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+      </div>
+    </footer>
+    {%- endif %}
