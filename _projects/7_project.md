@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FUNDAMENTAL LIMITATIONS OF THE SENSORIMOTOR CONTROL SYSTEM
+title: SENSORIMOTOR CONTROL SYSTEM LIMITATIONS
 description: 
 img: assets/img/respic/brain_scott.png
 importance: 6
