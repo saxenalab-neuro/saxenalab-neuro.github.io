@@ -27,7 +27,7 @@ category: Principal Investigator
 <div class="container my-5">
   <div class="row">
     <div class="col-lg-6">
-       <img class="w-100 shadow" src="{{ include.path |assets/img/teampic/ShreyaSaxena.jpg}}" />
+       <img class="w-100 shadow" src="teampic/ShreyaSaxena.jpg" />
     </div>
     <div class="col-lg-6">
       <div class="p-5 mt-4">
