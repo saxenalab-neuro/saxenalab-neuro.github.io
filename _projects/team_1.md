@@ -19,8 +19,9 @@ category: Principal Investigator
              <li>Postdoc @ <a href="https://ctn.zuckermaninstitute.columbia.edu/"> Center for Theoretical Neuroscience</a> at Columbia University with <a href="http://www.stat.columbia.edu/~liam/">Liam Paninski </a> and <a href="https://stat.columbia.edu/~cunningham/"> John Cunningham </a></li>
              <li>PhD in EECS @ Laboratory of Information and Decision Systems at MIT with <a href="https://idss.mit.edu/staff/munther-dahleh/"> Munther Dahleh </a></li>
              <li>Masters in BME @ Johns Hopkins with <a href="https://www.bme.jhu.edu/people/faculty/sridevi-v-sarma/"> Sri Sarma </a></li>
-             <li>Undergraduate in MechE @ <a href="https://www.epfl.ch/en/"> EPFL </a></li></li>
+             <li>Undergraduate in MechE @ <a href="https://www.epfl.ch/en/"> EPFL </a></li>
              </ul>
+            </li>
       </div>
     </div>
 </div>
