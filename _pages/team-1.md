@@ -1,7 +1,7 @@
 ---
 layout: page
-title: team
-permalink: /teams/
+title: team1
+permalink: /teams1/
 description: 
 nav: true
 nav_order: 7
