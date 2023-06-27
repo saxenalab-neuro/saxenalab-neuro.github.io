@@ -2,7 +2,7 @@
 layout: page
 title: BRAIN INITIATIVE R01
 description: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL USING DEEP LEARNING
-img: assets/logopic/logo_nih.png
+img: assets/img/logopic/logo_nih.png
 importance: 1
 category: Current Interests
 ---
