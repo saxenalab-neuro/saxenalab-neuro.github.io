@@ -1,7 +1,7 @@
 ---
 layout: page
 title: [Shreya Saxena]
-description: 
+description: Assistant Professor
 img: assets/img/teampic/ShreyaSaxena.jpg
 importance: 1
 category: Principal Investigator
