@@ -5,7 +5,7 @@ permalink: /projects/
 description:  We are broadly interested in topics on the interface of statistical inference, recurrent neural networks, control theory, and neuroscience.
 nav: true
 nav_order: 2
-display_categories: [Current Interests, Past Research]
+display_categories: [Funding, Current Interests, Past Research]
 horizontal: false
 ---
 
