@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is our pervious website
+title: This is our previous website
 date: 2023-06-27
 inline: false
 related_posts: false
