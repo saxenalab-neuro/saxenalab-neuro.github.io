@@ -13,7 +13,7 @@ category: PhD students
       </div>
       <div class="col-12 col-md-6" >
           <li>Thrid year PhD student</li>
-          <li>Email: yidaiyao@ufl.edu</li>
+          <li>Email: malmani@ufl.edu</li>
           <li>Education: 
              <ul>
              <li>BE in xxxxx (xxxxx) </li>
