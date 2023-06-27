@@ -2,7 +2,7 @@
 layout: page
 title: NSF COLLABORATIVE GRANT
 description: ROLE OF SPONTANEOUS MOVEMENTS DURING DECISION-MAKING.
-img: assets/img/logo_nsf.svg
+img: assets/img/logopic/logo_nsf.svg
 importance: 2
 category: Current Interests
 ---
