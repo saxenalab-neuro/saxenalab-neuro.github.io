@@ -1,7 +1,7 @@
 ---
 layout: page
 title: [Yongxu Zhang]
-description: 
+description: Thrid year PhD student
 img: assets/img/teampic/Yongxu.jpeg
 importance: 1
 category: PhD students
