@@ -1,7 +1,7 @@
 ---
 layout: page
 title: REAL-TIME DECODING OF NEURALLY-ENCODED SIGNALS
-description: 
+description: DEVELOPING ALGORITHMS FOR REAL-TIME DECODING OF NEURALLY-ENCODED SIGNALS, THAT ENSURE STABILITY IN CLOSED LOOP
 img: assets/img/respic/K_Delta.png
 importance: 3
 category: Past Research
