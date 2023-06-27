@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Shreya Saxena]
+title: [Daiyao Yi]
 description: 
 img: assets/img/teampic/Daiyao.jpeg
 importance: 3
