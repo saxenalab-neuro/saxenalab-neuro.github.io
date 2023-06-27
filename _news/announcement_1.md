@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-6-27
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The Saxena Lab for Neural Control is moving to Yale University, at their new Wu Tsai Institute!
