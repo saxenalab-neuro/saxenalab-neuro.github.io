@@ -8,10 +8,10 @@ category: Principal Investigator
 ---
 <div class="container my-5">
   <div class="row">
-    <div class="col-lg-6">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/teampic/ShreyaSaxena.jpg" class="img-fluid rounded z-depth-1" width="120" height="120" %}
     </div>
-    <div class="col-md-6">
+    <div class="col-sm-8 mt-3 mt-md-0">
       <div class="p-5 mt-4">
           <li>Title: Assistant Professor</li>
           <li>Email: shreya.saxena@yale.edu</li>
