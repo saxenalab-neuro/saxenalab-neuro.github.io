@@ -2,7 +2,7 @@
 layout: page
 title: COMPUTATIONAL PRINCIPLES UNDERLYING SPEED CONTROL IN THE PRIMARY MOTOR CORTEX
 description:
-img:
+img: assets/img/respic/cycling_pic.png
 importance: 3
 category: Past Research
 ---
