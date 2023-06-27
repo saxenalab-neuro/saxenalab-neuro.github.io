@@ -4,7 +4,7 @@ title: [Shreya Saxena]
 description: 
 img: assets/img/teampic/ShreyaSaxena.jpg
 importance: 1
-category: PI
+category: Principal Investigator
 ---
 
 Every project has a beautiful feature showcase page.
