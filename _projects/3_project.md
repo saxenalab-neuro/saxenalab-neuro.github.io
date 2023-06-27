@@ -5,7 +5,7 @@ description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: 
 importance: 3
-category: work
+category: Past Research
 ---
 
 
