@@ -1,7 +1,7 @@
 ---
 layout: page
 title: [Daiyao Yi]
-description: 
+description: Thrid year PhD student
 img: assets/img/teampic/Daiyao.jpeg
 importance: 3
 category: PhD students
