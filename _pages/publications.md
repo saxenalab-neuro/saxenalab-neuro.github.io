@@ -6,6 +6,7 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 1
 ---
+Coming soon! In the meantime, see our Google Scholar page: https://scholar.google.com/citations?user=x-YACVoAAAAJ
 <!-- _pages/publications.md -->
 <div class="publications">
 
