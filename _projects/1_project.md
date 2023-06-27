@@ -4,7 +4,7 @@ title: BRAIN INITIATIVE R01
 description: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL USING DEEP LEARNING
 img: assets/img/logopic/logo_nih.png
 importance: 1
-category: Funding
+category: Current Interests
 ---
 **BRAIN INITIATIVE R01: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL USING DEEP LEARNING.**
 How do distributed neural circuits drive purposeful movements from the complex musculoskeletal system? This understanding and characterization will be critical towards the application of principled neurostimulation to specific brain regions to study the effect of neural circuit perturbations on behavior, and conversely towards predictions of the neural activity during perturbations in the behavior.
