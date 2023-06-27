@@ -9,6 +9,9 @@ display_categories: [PI, PhD students, Masters and Undergraduate Students, Alumn
 horizontal: false
 ---
 
+# Group Members
+ **We are  looking for new Postdocs and PhD students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
