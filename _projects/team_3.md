@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Shreya Saxena]
+title: [Noman Almani]
 description: 
 img: assets/img/teampic/Noman.jpeg
 importance: 2
