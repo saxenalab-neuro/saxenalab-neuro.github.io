@@ -5,7 +5,7 @@ permalink: /teams/
 description: A growing collection of our cool projects.
 nav: true
 nav_order: 3
-display_categories: [PI, PHD students, masters and undergraduate students, alumni, lab visitors]
+display_categories: [PI, PhD students, Masters and Undergraduate Students, Alumni, Former visitors, BSc/MSc students]
 horizontal: false
 ---
 
