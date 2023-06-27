@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: We are broadly interested in topics on the interface of statistical inference, recurrent neural networks, control theory, and neuroscience.
+description:
 img: assets/img/12.jpg
 importance: 1
 category: Current Interests
