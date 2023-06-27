@@ -1,7 +1,7 @@
 ---
 layout: page
 title: [Noman Almani]
-description: 
+description: Thrid year PhD student
 img: assets/img/teampic/Noman.jpeg
 importance: 2
 category: PhD students
