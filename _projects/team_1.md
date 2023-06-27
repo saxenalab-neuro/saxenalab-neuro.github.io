@@ -8,11 +8,10 @@ category: Principal Investigator
 ---
 <div class="container my-5">
   <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/teampic/ShreyaSaxena.jpg" class="img-fluid rounded z-depth-1" width="120" height="120" %}
-    </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-      <div class="p-5 mt-4">
+      <div class="col-sm-8 mt-3 mt-md-0">
+          {% include figure.html path="assets/img/teampic/ShreyaSaxena.jpg" class="img-fluid rounded z-depth-1" width="120" height="120" %}
+      </div>
+      <div class="col-12 col-md-6" >
           <li>Title: Assistant Professor</li>
           <li>Email: shreya.saxena@yale.edu</li>
           <li>Education: 
@@ -22,8 +21,6 @@ category: Principal Investigator
              <li>Masters in BME @ Johns Hopkins with <a href="https://www.bme.jhu.edu/people/faculty/sridevi-v-sarma/"> Sri Sarma </a></li>
              <li>Undergraduate in MechE @ <a href="https://www.epfl.ch/en/"> EPFL </a></li></li>
              </ul>
-          </li>
-          <a href="https://ctn.zuckermaninstitute.columbia.edu/" class="btn btn-outline-dark"></a>
-        </div>
+      </div>
     </div>
 </div>
