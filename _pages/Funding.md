@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-#BRAIN INITIATIVE R01: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL USING DEEP LEARNING.
+# BRAIN INITIATIVE R01: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL USING DEEP LEARNING.
 How do distributed neural circuits drive purposeful movements from the complex musculoskeletal system? This understanding and characterization will be critical towards the application of principled neurostimulation to specific brain regions to study the effect of neural circuit perturbations on behavior, and conversely towards predictions of the neural activity during perturbations in the behavior.
 
 Breakneck advances in hardware and machine learning techniques have led to vast improvements in our ability to record and model large-scale multi-regional neural data. Our broad research goal is to advance the current state-of-the-art for modeling the neural control of movements by incorporating large-scale measurements and biological constraints into theoretical models of sensorimotor control.
@@ -18,7 +18,7 @@ To that end, we are developing biologically-inspired goal- and data- driven arti
 This is a critical step towards (a) elucidating the computational role of neural activity from different brain regions in controlling complex behavior, (b) allowing us to further refine theoretical models of movement generation based on data, and (c) understanding where and how to stimulate the brain in order to efficiently apply neurostimulation for achieving desired behavior. 
 
 
-#NSF COLLABORATIVE GRANT: ROLE OF SPONTANEOUS MOVEMENTS DURING DECISION-MAKING.
+# NSF COLLABORATIVE GRANT: ROLE OF SPONTANEOUS MOVEMENTS DURING DECISION-MAKING.
 Cognitive tasks such as decision-making are performed by different subjects in different ways. An important manifestation of this subject-to-subject variability is through spontaneous movements during task performance. For example, people may tap the floor or move their eyes while learning a cognitive task; similarly, mice display idiosyncratic whisker, facial, or other movements.
 
 Since both spontaneous movements and cognitive tasks modulate cortical activity, modeling and interpreting neural activity during decision-making is a major challenge. Deciphering the function and quantifying the neural origin of spontaneous movements while explicitly modeling individual neural dynamics is a crucial first step in understanding the neural basis of cognitive behaviors. Elucidating the role of spontaneous movements in cognition will also be important for assessing and developing novel therapies for neurobehavioral disorders such as attention deficit hyperactivity disorder.
