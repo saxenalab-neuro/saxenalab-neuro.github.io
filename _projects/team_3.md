@@ -16,7 +16,7 @@ category: PhD students
           <li>Email: malmani@ufl.edu</li>
           <li>Education: 
              <ul>
-             <li>BE in xxxxx (xxxxx) </li>
+             <li>BSc in EE @ University of Engineering and Technology Lahore</li>
              </ul>
             </li>
       </div>
