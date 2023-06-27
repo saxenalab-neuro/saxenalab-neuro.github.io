@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DEVELOPING ALGORITHMS FOR REAL-TIME DECODING OF NEURALLY-ENCODED SIGNALS
+title: REAL-TIME DECODING OF NEURALLY-ENCODED SIGNALS
 description: 
 img: assets/img/respic/K_Delta.png
 importance: 3
