@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shreya Saxena
-description: a project with a background image
+description: 
 img: assets/img/teampic/ShreyaSaxena.jpg
 importance: 1
 category: PI
