@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shreya Saxena
+title: [Shreya Saxena]
 description: 
 img: assets/img/teampic/ShreyaSaxena.jpg
 importance: 1
