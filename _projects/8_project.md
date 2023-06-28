@@ -8,7 +8,7 @@ category: Current Interests
 ---
 Breakneck advances in hardware and machine learning techniques have led to vast improvements in our ability to record and model large-scale multi-regional neural data. Our broad research goal is to advance the current state-of-the-art for modeling the neural control of movements by incorporating large-scale measurements and biological constraints into theoretical models of sensorimotor control.
 
-To that end, we are developing biologically-inspired goal- and data-driven artificial intelligence methods to elucidate the neurodynamical basis of sensorimotor control[1][2]. Using these tools, we hope to elucidate principles of sensorimotor control by incorporating recorded neural data in succinct and interpretable biologically-inspired models of the relationships between the measured biological data and the corresponding behavior.
+To that end, we are developing biologically-inspired goal- and data-driven artificial intelligence methods to elucidate the neurodynamical basis of sensorimotor control[1][2][3]. Using these tools, we hope to elucidate principles of sensorimotor control by incorporating recorded neural data in succinct and interpretable biologically-inspired models of the relationships between the measured biological data and the corresponding behavior.
 
 This is a critical step towards: 
 
@@ -27,3 +27,7 @@ This is a critical step towards:
 [1] Saxena S.*, Russo A.*, Cunningham J., Churchland M. "Motor cortex activity across movement speeds is predicted by network-level strategies for generating muscle activity" eLife, 2022.
 
 [2] Almani, M.N., Saxena, S. “Recurrent neural networks controlling musculoskeletal models predict motor cortex activity during novel limb movements” 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2022.
+
+[3] Almani, M.N., Saxena, S. “Deep Reinforcement Learning mimics Neural Strategies for Limb Movements” Cosyne, 2022. 
+
+[4] Warriner, C., Fageiry, S., Saxena, S., Costa, R., Miri, A. “Motor cortical influence relies on task-specific activity covariation”, Cell Reports, 2022
