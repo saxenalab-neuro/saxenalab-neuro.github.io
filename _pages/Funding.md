@@ -17,6 +17,17 @@ To that end, we are developing biologically-inspired goal- and data- driven arti
 
 This is a critical step towards (a) elucidating the computational role of neural activity from different brain regions in controlling complex behavior, (b) allowing us to further refine theoretical models of movement generation based on data, and (c) understanding where and how to stimulate the brain in order to efficiently apply neurostimulation for achieving desired behavior. 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/funding_nih/arm.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/funding_nih/sov.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mk.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 # NSF COLLABORATIVE GRANT: ROLE OF SPONTANEOUS MOVEMENTS DURING DECISION-MAKING.
 Cognitive tasks such as decision-making are performed by different subjects in different ways. An important manifestation of this subject-to-subject variability is through spontaneous movements during task performance. For example, people may tap the floor or move their eyes while learning a cognitive task; similarly, mice display idiosyncratic whisker, facial, or other movements.
