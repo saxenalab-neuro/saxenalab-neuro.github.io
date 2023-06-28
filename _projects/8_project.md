@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL
-description: This project is funded by NIH
+description: NIH funded project
 img: assets/img/funding_nih/mk.png
 importance: 3
 category: Current Interests
