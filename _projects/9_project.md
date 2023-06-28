@@ -15,7 +15,7 @@ Effectively modeling and quantifying behavior is essential for our understanding
         {% include figure.html path="assets/img/funding_nsf/csvae.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/funding_nsf/na.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/funding_nsf/na.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
