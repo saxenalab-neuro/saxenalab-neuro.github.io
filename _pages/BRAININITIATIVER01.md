@@ -1,8 +1,8 @@
 ---
 layout: textlay
-permalink: /fundings/
-title: funding
-description: 
+permalink: /BRAININITIATIVER01/
+title: BRAIN INITIATIVE R01
+description:
 nav: false
 nav_order: 4
 ---

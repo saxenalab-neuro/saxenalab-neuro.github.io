@@ -1,8 +1,8 @@
 ---
 layout: textlay
-permalink: /fundings/
-title: funding
-description: 
+permalink: /NSFCOLLABORATIVEGRANT/
+title: NSF COLLABORATIVE GRANT
+description:
 nav: false
 nav_order: 4
 ---
