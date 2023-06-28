@@ -12,7 +12,7 @@ category: PhD students
           {% include figure.html path="assets/img/teampic/Daiyao.jpg" class="img-fluid rounded z-depth-1" width="120" height="120" %}
       </div>
       <div class="col-12 col-md-6" >
-          <li>Thrid year PhD student</li>
+          <li>Third year PhD student</li>
           <li>Email: yidaiyao@ufl.edu</li>
           <li>Education: 
              <ul>
