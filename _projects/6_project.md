@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BASAL GANGLIA NEURONS IN MOVEMENT GENERATION
-description: INVESTIGATING THE ROLE OF BASAL GANGLIA NEURONS IN MOVEMENT GENERATION AND THEIR MODULATION DUE TO DEEP BRAIN STIMULATION (DBS)
+description: Investing the role of basal ganglia neurons in movement generation and their modulation due to deep brain stimulation(DBS)
 img: assets/img/respic/dbs.jpeg
 importance: 4
 category: Past Research
