@@ -12,6 +12,15 @@ In recent years, data-driven unsupervised techniques have gained traction to cir
 
 In our recent work, we model social behavior as a hierarchical set of motifs, we embed high-dimensional behavioral images into a lower-dimensional, informative space using a transformer-based autoencoder[2]. We take a semi-supervised approach to add interpretability by simultaneously decoding the annotated social behavior and reconstructing the behavioral video. By constraining part of the latent space using a Cauchy-Schwarz divergence, we successfully disentangle the latent space into position-based vs. social latent variables. This model facilitates the unbiased quantification of social behavior and can be applied in future studies to reveal the neural mechanisms of social behavior. 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/social/hh.png" title="hierarchical clustering" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/social/mice.png" title="mice" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 [1] Yi, D., Musall, S., Churchland, A. , Padilla-Coreano, N., Saxena, S.*, "Disentangled multi- subject and social behavioral representations through a constrained subspace variational autoencoder (CS-VAE)" eLife (To Appear), 2023.
 
 [2] Yi, D., Wright, E., Padilla-Coreano, N.*, Saxena, S.*, "Hierarchical Characterization of Social Behavior Motifs using Semi-Supervised Autoencoders", available @ [MABe2023](https://sites.google.com/view/mabe23/accepted-papers)
