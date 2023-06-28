@@ -6,6 +6,7 @@ img: assets/img/funding_nih/mk.png
 importance: 3
 category: Current Interests
 ---
+[(see funding)]({{ site.url }}{{ site.baseurl }}/fundings) 
 Breakneck advances in hardware and machine learning techniques have led to vast improvements in our ability to record and model large-scale multi-regional neural data. Our broad research goal is to advance the current state-of-the-art for modeling the neural control of movements by incorporating large-scale measurements and biological constraints into theoretical models of sensorimotor control.
 
 To that end, we are developing biologically-inspired goal- and data-driven artificial intelligence methods to elucidate the neurodynamical basis of sensorimotor control[1][2][3][4]. Using these tools, we hope to elucidate principles of sensorimotor control by incorporating recorded neural data in succinct and interpretable biologically-inspired models of the relationships between the measured biological data and the corresponding behavior.
