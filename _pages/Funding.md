@@ -40,12 +40,12 @@ Furthermore, the next generation of neurostimulation algorithms should not requi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/funding_nsf/mice.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/funding_nsf/latent.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/funding_nsf/csvae.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/funding_nsf/latent.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/funding_nsf/mice.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
