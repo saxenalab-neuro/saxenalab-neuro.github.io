@@ -10,7 +10,8 @@ Breakneck advances in hardware and machine learning techniques have led to vast 
 
 To that end, we are developing biologically-inspired goal- and data-driven artificial intelligence methods to elucidate the neurodynamical basis of sensorimotor control[1][2]. Using these tools, we hope to elucidate principles of sensorimotor control by incorporating recorded neural data in succinct and interpretable biologically-inspired models of the relationships between the measured biological data and the corresponding behavior.
 
-This is a critical step towards 
+This is a critical step towards: 
+
 (a) elucidating the computational role of neural activity from different brain regions in controlling complex behavior, 
 
 (b) allowing us to further refine theoretical models of movement generation based on data, and 
