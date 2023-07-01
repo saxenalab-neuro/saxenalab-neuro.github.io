@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SENSORIMOTOR CONTROL SYSTEM LIMITATIONS
+title: Sensorimotor Control System Limitations
 description: Fundamental limitations of the sensorimotor control system.
 img: assets/img/respic/brain_scott.png
 importance: 6
