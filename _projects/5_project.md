@@ -1,6 +1,6 @@
 ---
 layout: page
-title: REAL-TIME DECODING OF NEURALLY-ENCODED SIGNALS
+title: Real-time Decoding of Neurally-encoded Signals
 description: Developing algorithms for real-time decoding of neurally-encoded signals, that ensure stability in closed loop.
 img: assets/img/respic/K_Delta.png
 importance: 3
