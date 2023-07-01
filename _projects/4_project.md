@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SPEED CONTROL IN THE PRIMARY MOTOR CORTEX
+title: Speed Control in the Primary Motor Cortex
 description: Computational principles underlying speed control in the primary motor cortex
 img: assets/img/respic/cycling_pic.png
 importance: 3
