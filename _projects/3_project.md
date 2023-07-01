@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEURAL POPULATION ACTIVITY DIMENSIONALITY REDUCTION
+title: Neural Population Activity Dimensionality Reduction
 description: Interpretable dimensionality reduction of neural population activity, and decoding its relationship to high-dimensional behavior.
 img: assets/img/respic/LocaNMF.png
 redirect: 
