@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disentangled multi-subject and social behavioral representations
+title: Disentangled Multi-subject and Social Behavioral Representations
 description: NSF funded project
 img: assets/img/funding_nsf/mice.png
 importance: 4
