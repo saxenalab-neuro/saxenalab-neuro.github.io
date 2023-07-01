@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL
+title: Elucidating Principles of Sensorimotor Control
 description: NIH funded project
 img: assets/img/funding_nih/mk.png
 importance: 3
