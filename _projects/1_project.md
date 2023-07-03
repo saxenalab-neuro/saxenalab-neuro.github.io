@@ -14,6 +14,6 @@ Shifts in data distribution across time can strongly affect early classification
     </div>
 </div>
 
-[1] Mitelut, C., Zhang, Y.G, Sekino, Y., Boyd, J., Bolanos, F., Swindale, N. V., Silasi, G., Saxena, S.\{^*\}, Murphy, T. H.\{^*\} "Mesoscale cortex-wide neural dynamics predict self-initiated actions in mice several seconds prior to movement." eLife, 2022.
+[1] Mitelut, C., Zhang, Y.G, Sekino, Y., Boyd, J., Bolanos, F., Swindale, N. V., Silasi, G., Saxena, S.\*, Murphy, T. H.\* "Mesoscale cortex-wide neural dynamics predict self-initiated actions in mice several seconds prior to movement." eLife, 2022.
 
 [2] Zhang, Y.G, Mitelut, P., Arpin, J., Vaillancourt, P., Murphy, T. H., Saxena, S., "Behavioral Classification of Sequential Neural Activity Using Time Varying Recurrent Neural Networks" biorxiv, 2023.

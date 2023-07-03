@@ -20,9 +20,9 @@ Effectively modeling and quantifying behavior is essential for our understanding
     </div>
 </div>
 
-[1]Yi, D., Musall, S., Churchland, A. , Padilla-Coreano, N., Saxena, S., "Disentangled multi- subject and social behavioral representations through a constrained subspace variational autoencoder (CS-VAE)" eLife (To Appear), 2023.
+[1] Yi, D., Musall, S., Churchland, A. , Padilla-Coreano, N., Saxena, S., "Disentangled multi- subject and social behavioral representations through a constrained subspace variational autoencoder (CS-VAE)" eLife (To Appear), 2023.
 
-[2]Yi, D., Saxena, S., "Neural Correlations Across Mice During Spontaneous and Task-Related Behaviors" IEEE NER, 2023
+[2] Yi, D., Saxena, S., "Neural Correlations Across Mice During Spontaneous and Task-Related Behaviors" IEEE NER, 2023
 
 [3] Batty E., Whiteway M., Saxena S., et al. “BehaveNet: nonlinear embedding and Bayesian neural decoding of behavioral videos” Advances in Neural Information Processing Systems (NeurIPS), 2019.
 
