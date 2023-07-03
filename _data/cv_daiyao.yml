@@ -43,7 +43,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: behavioral modeling and pose estimation from high-dimensional video data for multi-subjects and socially behaving subjects.
+    - title: Behavioral modeling and pose estimation from high-dimensional video data for multi-subjects and socially behaving subjects.
       items: 
         - Yi, D., Musall, S., Churchland, A., Padilla-Coreano, N., Saxena, S.*, "Disentangled multi- subject and social behavioral representations through a constrained subspace variational autoencoder (CS-VAE)" eLife (To Appear), 2023.
 	- Yi, D., Saxena, S.*, “Neural Correlations Across Mice During Spontaneous and Task-Related Behaviors” IEEE NER, 2023.
