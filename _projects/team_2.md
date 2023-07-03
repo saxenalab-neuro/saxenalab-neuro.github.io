@@ -1,8 +1,10 @@
 ---
 layout: cv_yongxu
+title: [Yongxu Zhang]
+description: Third year PhD student
+img: assets/img/teampic/Yongxu.PNG
 permalink: /cv_yongxu/
-title: cv
-nav: false
-nav_order: 4
+importance: 1
+category: PhD students
 cv_pdf: CV_Yongxu.pdf
 ---
