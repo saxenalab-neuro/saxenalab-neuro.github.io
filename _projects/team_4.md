@@ -1,25 +1,11 @@
 ---
-layout: page
+layout: cv_daiyao
 title: [Daiyao Yi]
 description: Third year PhD student
 img: assets/img/teampic/Daiyao.jpg
-importance: 3
+permalink: /cv_daiyao/
+importance: 1
 category: PhD students
+cv_pdf: CV_daiyao.pdf
 ---
-<div class="container my-5">
-  <div class="row">
-      <div class="col-sm-8 mt-3 mt-md-0">
-          {% include figure.html path="assets/img/teampic/Daiyao.jpg" class="img-fluid rounded z-depth-1" width="120" height="120" %}
-      </div>
-      <div class="col-12 col-md-6" >
-          <li>Third year PhD student</li>
-          <li>Email: yidaiyao@ufl.edu</li>
-          <li>Education: 
-             <ul>
-             <li>BE in EEE @ University of Nottingham, Ningbo (2019) </li>
-             <li>MS in BME @ University of Michigan, Ann Arbor (2020)</li>
-             </ul>
-            </li>
-      </div>
-    </div>
-</div>
+
