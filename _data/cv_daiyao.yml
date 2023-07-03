@@ -25,7 +25,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant @ [Shreya Saxena](https://seas.yale.edu/faculty-research/faculty-directory/shreya-saxena)
+    - title: Graduate Research Assistant @  <a href="https://seas.yale.edu/faculty-research/faculty-directory/shreya-saxena" target="_blank">Shreya Saxena</a>
       institution: University of Florida
       year: 2021 - 2023
 
@@ -35,7 +35,7 @@
       description:
         - EEL 4930 Neuro-AI
 
-    - title: Graduate Research Assistant @ [Yuanfang Guan](https://medicine.umich.edu/dept/dcmb/yuanfang-guan-phd)
+    - title: Graduate Research Assistant @ <a href="https://medicine.umich.edu/dept/dcmb/yuanfang-guan-phd" target="_blank">Yuanfang Guan</a>
       institution: University of Michigan, Ann Arbor
       year: 2020-2021
 
