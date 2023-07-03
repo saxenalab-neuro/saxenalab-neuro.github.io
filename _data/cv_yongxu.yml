@@ -9,19 +9,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: MS
+    - title: MS in Electrical & Computer Engineering
       institution: University of Florida
-      year: 2021
+      year: 2019 - 2021
 
-    - title: BS
+    - title: BS in Physics
       institution: Nankai University, Tianjin, China
-      year: 2018
+      year: 2014 - 2018
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Research Assistant @ [Shreya Saxena](https://seas.yale.edu/faculty-research/faculty-directory/shreya-saxena)
       institution: University of Florida
       year: 2020 - 2023
 
