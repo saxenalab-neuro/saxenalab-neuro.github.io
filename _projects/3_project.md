@@ -4,7 +4,7 @@ title: Neural Population Activity Dimensionality Reduction
 description: Interpretable dimensionality reduction of neural population activity.
 img: assets/img/respic/LocaNMF.png
 redirect: 
-importance: 3
+importance: 5
 category: Current Research
 ---
 **INTERPRETABLE DIMENSIONALITY REDUCTION OF NEURAL POPULATION ACTIVITY**
