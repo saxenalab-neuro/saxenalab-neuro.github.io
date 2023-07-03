@@ -3,6 +3,7 @@ layout: page
 title: [Yongxu Zhang]
 description: Third year PhD student
 img: assets/img/teampic/Yongxu.PNG
+redirect: cv_yongxu
 importance: 1
 category: PhD students
 ---
