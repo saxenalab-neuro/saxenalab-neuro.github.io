@@ -6,6 +6,6 @@ img: assets/img/teampic/Daiyao.jpg
 permalink: /cv_daiyao/
 importance: 3
 category: PhD students
-cv_pdf: CV_daiyao.pdf
+cv_pdf: cv_daiyao.pdf
 ---
 
