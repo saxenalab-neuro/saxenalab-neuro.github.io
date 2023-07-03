@@ -4,6 +4,7 @@ title: [Yongxu Zhang]
 description: Third year PhD student
 img: assets/img/teampic/Yongxu.PNG
 importance: 1
+redirect: {{ site.url }}{{ site.baseurl }}/cv_yongxu
 category: PhD students
 ---
 <div class="container my-5">
