@@ -1,0 +1,51 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yongxu Zhang
+    - name: Languages
+      value: Chinese , English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: MS
+      institution: University of Florida
+      year: 2021
+
+    - title: BS
+      institution: Nankai University, Tianjin, China
+      year: 2018
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: University of Florida
+      year: 2020 - 2023
+
+    - title: Teaching Assistant
+      institution: University of Florida
+      year: 2022 Summer
+      description:
+        - EEL 5840 Fundamentals of Machine Learning
+
+    - title: Research Assistant
+      institution: Nankai University
+      year: 2017-2018
+
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Early and reliable classification of behavior from brain-wide neural data, using recurrent neural networks.
+      items: 
+        - Mitelut C., Zhang Y., Sekino Y., Boyd J., Bolanos F., Swindale N.V., Silasi G., Saxena S.*, Murphy T.* “Mesoscale cortex-wide neural dynamics predict self-initiated actions in mice several seconds prior to movement“, eLife, 2022.
+        - Zhang, Y.G, Mitelut, P., Arpin, J., Vaillancourt, P., Murphy, T. H., Saxena, S., “Behavioral Classification of Sequential Neural Activity Using Time Varying Recurrent Neural Networks” biorxiv, 2023.
+
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Soccer (Fans of CR7), Swimming, etc.
