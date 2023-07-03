@@ -25,7 +25,7 @@ This is a critical step towards:
     </div>
 </div>
 
-[1] Saxena S.*, Russo A.*, Cunningham J., Churchland M. "Motor cortex activity across movement speeds is predicted by network-level strategies for generating muscle activity" eLife, 2022.
+[1] Saxena S.\{^*\}, Russo A.\{^*\}, Cunningham J., Churchland M. "Motor cortex activity across movement speeds is predicted by network-level strategies for generating muscle activity" eLife, 2022.
 
 [2] Almani, M.N., Saxena, S. “Recurrent neural networks controlling musculoskeletal models predict motor cortex activity during novel limb movements” 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2022.
 
