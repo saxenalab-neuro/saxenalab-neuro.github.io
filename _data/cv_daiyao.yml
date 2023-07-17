@@ -3,8 +3,9 @@
   contents:
     - name: Full Name
       value: Daiyao Yi
-    - name: Languages
-      value: Chinese , English
+    - name: Email
+      value: daiyao.yi@yale.edu
+    
 
 - title: Education
   type: time_table
