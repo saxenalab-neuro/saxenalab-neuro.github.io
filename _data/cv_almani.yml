@@ -1,0 +1,47 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Muhammad Noman Almani
+    - name: Languages
+      value: English, Urdu
+
+- title: Education
+  type: time_table
+  contents:
+
+    - title: BSc Electrical Engineering
+      institution: University of Engineering and Technology, Lahore, Pakistan
+      year: 2017
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: University of Florida
+      year: 2021 - 2023
+
+    - title: Teaching Assistant
+      institution: University of Florida
+      year: 2022 Fall
+      description:
+        - EEL 4930 Fundamentals of Machine Learning
+
+    - title: Research Assistant
+      institution: KFAS / AUK
+      year: 2019 - 2020
+
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Neural Dynamics and their contribution towards sensorimotor control.
+      items: 
+        - Almani M. N., Saxena S., “Recurrent neural networks controlling musculoskeletal models predict motor cortex activity during novel limb movements“, IEEE EMBC, 2022.
+
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Traveling, Soccer
