@@ -1,0 +1,25 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shreya Saxena
+    - name: Date of Birth
+      value: 
+    - name: Email
+      value: shreya.saxena@yale.edu
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Postdoc
+      institution: <a href="https://ctn.zuckermaninstitute.columbia.edu/" target="_blank">Center for Theoretical Neuroscience</a> at Columbia University with  <a href="http://www.stat.columbia.edu/~liam/" target="_blank">Liam Paninski</a> and @ <a href="https://stat.columbia.edu/~cunningham/" target="_blank">John Cunningham</a> 
+
+    - title: PhD
+      institution: EECS @ Laboratory of Information and Decision Systems at MIT with @ <a href="https://idss.mit.edu/staff/munther-dahleh/" target="_blank"> Munther Dahleh </a> 
+
+    - title: MS
+      institution: BME @ Johns Hopkins with @ <a href="https://www.bme.jhu.edu/people/faculty/sridevi-v-sarma/" target="_blank"> Sri Sarma </a> 
+
+    - title: BS
+      institution: MechE @ <a href="https://www.epfl.ch/en/" target="_blank">EPFL </a> 
+
