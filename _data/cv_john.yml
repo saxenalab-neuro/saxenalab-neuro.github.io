@@ -2,53 +2,39 @@
   type: map
   contents:
     - name: Full Name
-      value: Daiyao Yi
+      value: John Lazzari
     - name: Email
-      value: daiyao.yi@yale.edu
+      value: john.lazzari@yale.edu
     
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Electrical & Computer Engineering
-      institution: University of Florida
-      year: 05/2021- 08/2023
-
-    - title: MS in Biomedical Engineering
-      institution: University of Michigan, Ann Arbor
-      year: 09/2019-12/2020
-
-    - title: BE in Electrical and Electronic Engineering
+    - title: BE in Applied & Computational Mathematics
       institution: University of Nottingham, Ningbo
-      year: 09/2015-07/2019
+      year: 2019-2023
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Graduate Research Assistant @ <a href="https://seas.yale.edu/faculty-research/faculty-directory/shreya-saxena" target="_blank">Shreya Saxena</a>
+    - title: Undergraduate Researcher @ <a href="https://seas.yale.edu/faculty-research/faculty-directory/shreya-saxena" target="_blank">Shreya Saxena</a>
       institution: University of Florida
-      year: 2021 - 2023
+      year: 2022 - 2023
 
-    - title: Teaching Assistant
-      institution: University of Florida
-      year: 2022 Fall
+    - title: Undergraduate Researcher
+      institution: Florida State University
+      year: 2021-2023
       description:
         - EEL 4930 Neuro-AI
-
-    - title: Graduate Research Assistant @ <a href="https://medicine.umich.edu/dept/dcmb/yuanfang-guan-phd" target="_blank">Yuanfang Guan</a>
-      institution: University of Michigan, Ann Arbor
-      year: 2020-2021
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Behavioral modeling and pose estimation from high-dimensional video data for multi-subjects and socially behaving subjects.
-      items: 
-        - Yi, D., Musall, S., Churchland, A., Padilla-Coreano, N., Saxena, S.*, "Disentangled multi- subject and social behavioral representations through a constrained subspace variational autoencoder (CS-VAE)" eLife (To Appear), 2023.
-        - Yi, D., Saxena, S.*, "Neural Correlations Across Mice During Spontaneous and Task-Related Behaviors" IEEE NER, 2023.
+    - title: Utilizing biologically accurate spiking neuron models to enable efficient and robust machine learning algorithms
+
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> skateboarding, running, video games, etc.
+    - <u>Hobbies:</u> Basketball, etc.
