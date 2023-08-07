@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Muhammad Noman Almani
-    - name: Languages
-      value: English, Urdu
+    - name: Email
+      value: muhammadnoman.almani@yale.edu
 
 - title: Education
   type: time_table
