@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Yongxu Zhang
-    - name: Languages
-      value: Chinese , English
+    - name: Email
+      value: yongxu.zhang@yale.edu
 
 - title: Education
   type: time_table
