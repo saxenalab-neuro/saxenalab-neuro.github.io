@@ -2,7 +2,7 @@
 layout: page
 title: funding
 nav: true
-nav_order: 6
+nav_order: 7
 dropdown: true
 children: 
     - title: BRAIN INITIATIVE R01
