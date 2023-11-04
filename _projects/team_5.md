@@ -6,6 +6,6 @@ img: assets/img/teampic/John.jpg
 permalink: /cv_john/
 importance: 4
 category: PhD students
-cv_pdf: cv_john.pdf
+cv_pdf: John_Lazzari_CV.pdf
 ---
 
