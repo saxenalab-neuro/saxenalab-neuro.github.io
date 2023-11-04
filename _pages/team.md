@@ -5,7 +5,7 @@ permalink: /teams/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Principal Investigator, PhD students, Masters and Undergraduate Students, Alumni, Former visitors, BSc/MSc students]
+display_categories: [Principal Investigator, PhD students, Masters and Undergraduate Students, Alumni]
 horizontal: false
 ---
 
