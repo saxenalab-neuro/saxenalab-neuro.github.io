@@ -1,6 +1,6 @@
 ---
 layout: page
-title: fundings
+title: funding
 nav: true
 nav_order: 6
 dropdown: true
