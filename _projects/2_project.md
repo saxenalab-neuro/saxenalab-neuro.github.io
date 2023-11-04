@@ -22,6 +22,6 @@ In our recent work, we model social behavior as a hierarchical set of motifs, we
 </div>
 
 
-[1] Yi, D., Musall, S., Churchland, A. , Padilla-Coreano, N., Saxena, S., "Disentangled multi- subject and social behavioral representations through a constrained subspace variational autoencoder (CS-VAE)" eLife (To Appear), 2023.
+[1] Yi Daiyao, Musall Simon, Churchland Anne, Padilla-Coreano Nancy, Saxena Shreya (2023) Disentangled multi-subject and social behavioral representations through a constrained subspace variational autoencoder (CS-VAE) [eLife 12:RP88602](https://doi.org/10.7554/eLife.88602.1)
 
 [2] Yi, D., Wright, E., Padilla-Coreano, N., Saxena, S., "Hierarchical Characterization of Social Behavior Motifs using Semi-Supervised Autoencoders", available @ [MABe2023](https://sites.google.com/view/mabe23/accepted-papers)
