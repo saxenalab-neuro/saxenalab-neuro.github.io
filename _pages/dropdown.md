@@ -10,4 +10,7 @@ children:
     - title: divider
     - title: NSF COLLABORATIVE GRANT
       permalink: /NSFCOLLABORATIVEGRANT/
+    - title: divider
+    - title: SFARI 2023 Winter Pilot
+      permalink: /SFARI2023WinterPilot/
 ---
