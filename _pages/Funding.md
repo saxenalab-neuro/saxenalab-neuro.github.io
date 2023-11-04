@@ -1,6 +1,6 @@
 ---
 layout: textlay
-permalink: /fundings/
+permalink: /funding/
 title: funding
 description: 
 nav: false
