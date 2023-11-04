@@ -1,7 +1,7 @@
 ---
 layout: textlay
-permalink: /NSFCOLLABORATIVEGRANT/
-title: NSF COLLABORATIVE GRANT
+permalink: /SFARI2023WinterPilot/
+title: SFARI 2023 Winter Pilot
 description:
 nav: false
 nav_order: 4
