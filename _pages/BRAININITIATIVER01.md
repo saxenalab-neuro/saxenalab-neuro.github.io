@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-# BRAIN INITIATIVE R01: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL USING DEEP LEARNING.
+[# BRAIN INITIATIVE R01: ELUCIDATING PRINCIPLES OF SENSORIMOTOR CONTROL USING DEEP LEARNING.](https://reporter.nih.gov/search/Wp0Hllx7EUqulszRPgfUQQ/project-details/10488409)
 How do distributed neural circuits drive purposeful movements from the complex musculoskeletal system? This understanding and characterization will be critical towards the application of principled neurostimulation to specific brain regions to study the effect of neural circuit perturbations on behavior, and conversely towards predictions of the neural activity during perturbations in the behavior.
 
 Breakneck advances in hardware and machine learning techniques have led to vast improvements in our ability to record and model large-scale multi-regional neural data. Our broad research goal is to advance the current state-of-the-art for modeling the neural control of movements by incorporating large-scale measurements and biological constraints into theoretical models of sensorimotor control.
