@@ -18,7 +18,7 @@ latest_posts: false # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-We are a dynamic research group at the [Wu Tsai Institute at Yale University](https://wti.yale.edu/). Our aim is to explore and understand the brain using computational methods.
+We are a dynamic research group at the [Wu Tsai Institute at Yale University](https://wti.yale.edu/). We develop biologically inspired goal- and data- driven artificial intelligence methods to elucidate the neurodynamical basis of behavior, ranging from sensorimotor control to social behavior. Our aim is to better understand the brain using computational methods.
 
 We were recently funded by the [NIH](https://reporter.nih.gov/search/Wp0Hllx7EUqulszRPgfUQQ/project-details/10488409) and the [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2219876&HistoricalAwards=false). We are actively recruiting graduate students and postdocs. Please reach out to Prof. Saxena for details.
 
