@@ -9,7 +9,10 @@
 - title: Education
   type: time_table
   contents:
-
+    - title: PhD in Electrical Engineering
+      institution: Yale University
+      year: 01/2021- 
+      
     - title: BSc Electrical Engineering
       institution: University of Engineering and Technology, Lahore, Pakistan
       year: 2017
