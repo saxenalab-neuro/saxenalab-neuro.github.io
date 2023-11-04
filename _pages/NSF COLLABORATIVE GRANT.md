@@ -4,7 +4,7 @@ permalink: /NSFCOLLABORATIVEGRANT/
 title: NSF COLLABORATIVE GRANT
 description:
 nav: false
-nav_order: 4
+nav_order: 5
 ---
 # [NSF COLLABORATIVE GRANT: ROLE OF SPONTANEOUS MOVEMENTS DURING DECISION-MAKING.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2219876&HistoricalAwards=false)
 Cognitive tasks such as decision-making are performed by different subjects in different ways. An important manifestation of this subject-to-subject variability is through spontaneous movements during task performance. For example, people may tap the floor or move their eyes while learning a cognitive task; similarly, mice display idiosyncratic whisker, facial, or other movements.
