@@ -1,0 +1,38 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shandra Ahsan
+    - name: Email
+      value: shandra.ahsan@yale.edu
+    
+
+- title: Education
+  type: time_table
+  contents:
+    - title: BS in Biomedical Engineering
+      institution: Yale University
+      year: Class of 2024
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Researcher, Yale University, Miller-Jensen Lab
+      institution: Yale University
+      year: 2022 - Present
+
+    - title: Regulatory Affairs Intern
+      institution: Cresilon Inc.
+      year: June 2023-August 2023
+
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: title
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u>  etc.
