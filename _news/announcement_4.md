@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-BioImage Computing at [ICCV 2023](http://www.bioimagecomputing.com/) (Invited talk by Shreya)
+Invited talk by Shreya at BioImage Computing at [ICCV 2023](http://www.bioimagecomputing.com/) 
