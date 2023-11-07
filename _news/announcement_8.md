@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[FDS - Google workshop](https://yalefds.swoogo.com/ml) (Shreya talk)
+Invited talk by Shreya at [FDS - Google workshop](https://yalefds.swoogo.com/ml) 
