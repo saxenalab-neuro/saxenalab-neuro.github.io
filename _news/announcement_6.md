@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Odin workshop](https://odin.mit.edu/) (Invited talk by Shreya)
+Invited talk by Shreya at [Odin workshop](https://odin.mit.edu/) 
