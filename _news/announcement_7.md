@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Neuro AI Montreal conference](https://www.neuroaimontreal.com/schedule) (John poster and Shreya talk)
+Poster by John, and Invited Talk by Shreya at [Neuro AI Montreal conference](https://www.neuroaimontreal.com/schedule) 
