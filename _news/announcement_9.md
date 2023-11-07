@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Asilomar 2023](https://cmsworkshops.com/Asilomar2023/view_session.php?SessionID=1090) (Shreya talk)
+Invited talk by Shreya at [Asilomar 2023](https://cmsworkshops.com/Asilomar2023/view_session.php?SessionID=1090) 
