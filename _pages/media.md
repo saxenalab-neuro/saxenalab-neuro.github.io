@@ -6,24 +6,10 @@ description:
 nav: true
 nav_order: 9
 ---
+<video width="320" height="240" controls>
+  <source src="assets/video/theme_video__for_humanity_illuminated_boston_11.9.23 (360p).mp4" type="video/mp4">
+<!--   <source src="movie.ogg" type="video/ogg"> -->
+Your browser does not support the video tag.
+</video>
 
 
-
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.html path="assets/img/group_social/IMG_2333.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.html path="assets/img/group_social/IMG_5100.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.html path="assets/img/group_social/IMG_5124.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.html path="assets/img/group_social/IMG_6424.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.html path="assets/img/group_social/IMG_6792.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class="col-sm mt-3 mt-md-0">
-{% include figure.html path="assets/img/group_social/IMG_7717.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
