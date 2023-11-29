@@ -30,9 +30,9 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: title
+    - title: Circuit interation in competitive social behavior
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u>  etc.
+    - <u>Hobbies:</u>  film photography, trying new restaurants, trivia
